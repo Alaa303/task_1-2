@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "fname": "alaa",
+        "lname": "mahdy",
+        "age": "20",
+        "city": "cairo"
+    },
+    {
+        "id": "2",
+        "fname": "alaa",
+        "lname": "mahdy",
+        "age": "20",
+        "city": "cairo"
+    },
+    {
+        "id": "3",
+        "fname": "alaa",
+        "lname": "mahdy",
+        "age": "20",
+        "city": "cairo"
+    },
+    {
+        "id": "4",
+        "fname": "alaa",
+        "lname": "mahdy",
+        "age": "20",
+        "city": "cairo"
+    }
+]
